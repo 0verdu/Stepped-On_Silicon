@@ -410,7 +410,7 @@ stepped-on-silicon/
 │   ├── iphone12/
 │   └── iphone14_pro_max/   
 │
-└── 📂 infrastructure/              ← Network/carrier docs
+└── 📂 infrastructure/              ← Network topology
     ├── taiwan_mobile.md  
     └── tmobile_usa.md
 ```
