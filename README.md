@@ -458,3 +458,7 @@ Factory reset on iOS does not erase data as commonly understood. Multiple lines 
 ---
 
 **⚠️ Note:** This repository contains technical analysis and documentation. It does NOT contain exploit code, implementation details, or methods to circumvent security measures.
+
+---
+
+Joseph Goydish II
