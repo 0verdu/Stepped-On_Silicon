@@ -1,4 +1,4 @@
-#  Stepped-On Silicon
+#  Stepped-On Silicon: Persistent Deep State Suriving Factory Resets
 ## Dirty Consumer Devices Pass the Purity Test
 #### Exposé analysis of documented findings found post [Recovery Mode](https://support.apple.com/en-us/118106) (DFU Reset)
 ---
